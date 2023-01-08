@@ -18,12 +18,15 @@
 <h1 align="left">Forecasting branch sales, for the data set (see attached files): </h1>
 <h1 align="left">The different characteristics in the data set: </h1>
 <img align="center" alt="Coding" width="400" src="https://github.com/RefaelIvgi/BigMartPredict/blob/main/py2.PNG" >
+
 <img align="center" alt="Coding" width="400" src="https://github.com/RefaelIvgi/BigMartPredict/blob/main/py3.PNG" >
+
 <h1 align="left">The output is a CSV file that includes: </h1>
+
 <img align="center" alt="Coding" width="400" src="https://github.com/RefaelIvgi/BigMartPredict/blob/main/py1.PNG" >
-<h3 align="center"> For Example: </h3>
+<h3 align="left"> For Example: </h3>
 <img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/109313481/211221525-412bdd03-20b8-4e2f-9e37-fcffe523de12.PNG" >
-![chart4](https://user-images.githubusercontent.com/109313481/211221525-412bdd03-20b8-4e2f-9e37-fcffe523de12.PNG)
+
 
 
 <h1 align="center">Please note 💭</h1>
