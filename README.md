@@ -37,6 +37,6 @@
 
 
 <h1 align="center">Please note 💭</h1>
-<h3 align="center"> If you work offline - I have attached a Python file only, if you work online for real-time work - I have attached the the Jupyter notebook file.</h3>
+<h3 align="center"> If you work offline - I have attached a Python file, if you work online for real-time work - I have attached the the Jupyter notebook file.</h3>
 
 <h1 align="center">Good Luck!🖥️</h1>
