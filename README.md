@@ -17,11 +17,11 @@
 
 <h1 align="left">Sales Predicts for BigMart branches using Machine Learning includes : Graphs , Correlation relationship , Model with 4 Classifiers : </h1>
 
-<img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/109313481/211221702-c555a984-a631-4230-9030-ffd8fae78a42.png" >
+<img align="center" alt="Coding" width="250" src="https://user-images.githubusercontent.com/109313481/211221702-c555a984-a631-4230-9030-ffd8fae78a42.png" >
 
-<img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/109313481/211221720-7099c937-fd57-4ceb-87ed-c2f5217dab55.png" >
+<img align="center" alt="Coding" width="250" src="https://user-images.githubusercontent.com/109313481/211221720-7099c937-fd57-4ceb-87ed-c2f5217dab55.png" >
 
-<img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/109313481/211221727-b19fbb95-fae6-4949-8fbe-f2711e04200f.png" >
+<img align="center" alt="Coding" width="250" src="https://user-images.githubusercontent.com/109313481/211221727-b19fbb95-fae6-4949-8fbe-f2711e04200f.png" >
 
 <h1 align="left">The different characteristics in the data set: </h1>
 <img align="center" alt="Coding" width="400" src="https://github.com/RefaelIvgi/BigMartPredict/blob/main/py2.PNG" >
