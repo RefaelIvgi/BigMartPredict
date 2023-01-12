@@ -32,7 +32,7 @@
 
 <img align="center" alt="Coding" width="400" src="https://github.com/RefaelIvgi/BigMartPredict/blob/main/py1.PNG" >
 <h3 align="left"> For Example: </h3>
-<img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/109313481/211221525-412bdd03-20b8-4e2f-9e37-fcffe523de12.PNG" >
+<img align="center" alt="Coding" width="200" src="https://user-images.githubusercontent.com/109313481/211221525-412bdd03-20b8-4e2f-9e37-fcffe523de12.PNG" >
 
 
 
